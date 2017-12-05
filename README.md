@@ -1,2 +1,3 @@
 # hello-world
-Just a hello world
+doing some changes
+thats it!
